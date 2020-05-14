@@ -37,4 +37,4 @@
 
 # ☁️词云图⬇️
 
-![pic of wordcloud](输出结果.png)
+![pic of wordcloud](https://helloimg.com/images/2020/05/14/a54474a724ed78105b78292db5efba1262c2d1bb78b14527.jpg)
