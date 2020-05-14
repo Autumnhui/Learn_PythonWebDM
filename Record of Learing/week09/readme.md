@@ -1,3 +1,9 @@
+* [主文件ipynb跳转](https://github.com/Autumnhui/Learn_PythonWebDM/blob/master/Record%20of%20Learing/week09/Selenium%E6%A8%A1%E5%9D%97%E7%88%AC%E5%8F%96%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.ipynb)
+
+* [Excel表数据链接](https://github.com/Autumnhui/Learn_PythonWebDM/blob/master/Record%20of%20Learing/week09/data_sets/%E5%85%AC%E4%BC%97%E5%8F%B7_url_%E6%95%B0%E6%8D%AE%E7%AE%A1%E9%81%93.xlsx)
+
+---
+
 # ⛏Selenium模块爬取微信公众号“数据管道”
 
 ## 🗣*PRD1*数据加值宣言
