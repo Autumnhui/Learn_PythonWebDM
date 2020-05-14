@@ -37,4 +37,4 @@
 
 # ☁️词云图⬇️
 
-![pic of wordcloud](/输出结果.jpg)
+![pic of wordcloud](输出结果.jpg)
