@@ -41,6 +41,8 @@
 
 ---
 
-# ☁️词云图⬇️
+# ☁️词云图⬇️（两张，一张为缩略图，避免网络差）
+
+![词云缩略图](https://helloimg.com/images/2020/05/14/a54474a724ed78105b78292db5efba1262c2d1bb78b14527.md.jpg)
 
 ![pic of wordcloud](https://helloimg.com/images/2020/05/14/a54474a724ed78105b78292db5efba1262c2d1bb78b14527.jpg)
