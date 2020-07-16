@@ -10,7 +10,7 @@
 
 ## *PRD1*数据加值宣言
 
-本项目产出自按“数据”为关键词，挖掘的关于 *猎聘网中各行业* 的工作数据（<b>原数据共5849条,清洗后2465条。详见[Excel表数据链接](https://gitee.com/autumnhui/Learn_PythonWebDM/blob/master/Prj_51job/%E6%B8%85%E6%B4%97%E5%90%8Ejob_info.xlsx)</b>），以解决（不一定准确，但具有参考价值）“数据”相关的就业需求及特性的就业分析问题。
+本项目产出自按“数据”为关键词，挖掘的关于 *前程无忧51job中各行业* 的工作数据（<b>原数据共5849条,清洗后2465条。详见[Excel表数据链接](https://gitee.com/autumnhui/Learn_PythonWebDM/blob/master/Prj_51job/%E6%B8%85%E6%B4%97%E5%90%8Ejob_info.xlsx)</b>），以解决（不一定准确，但具有参考价值）“数据”相关的就业需求及特性的就业分析问题。
 
 * 关键词：数据
 * 页数：所有（1-100）
