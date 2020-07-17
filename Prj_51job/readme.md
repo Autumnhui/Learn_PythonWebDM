@@ -51,6 +51,46 @@
 * company_size：公司规模
 * industry：公司所属行业
 
+## 思路方法及具体执行
+
+### 思路方法
+
+1. 分析搜寻网页之URL
+2. 数据爬取(含二级详细页内容爬取)
+3. 数据存储
+4. 数据清洗
+5. 构造新表
+
+### 执行
+
+1. 使用相关的库
+```
+import requests
+import pandas as pd
+from pprint import pprint
+from lxml import etree
+import time
+import warnings
+warnings.filterwarnings("ignore")
+```
+
+2. 分析URL
+
+```
+# 第一页
+https://search.51job.com/list/000000,000000,0000,00,9,99,%25E6%2595%25B0%25E6%258D%25AE,2,1.html?
+# 第二页
+https://search.51job.com/list/000000,000000,0000,00,9,99,%25E6%2595%25B0%25E6%258D%25AE,2,2.html?
+# 第三页
+https://search.51job.com/list/000000,000000,0000,00,9,99,%25E6%2595%25B0%25E6%258D%25AE,2,3.html?
+
+# 发现变化的只有后面的数字，用for循环即可爬取所有的页面
+
+```
+
+3. .....爬取以及清洗数据的过程详见[ipynb文档](https://gitee.com/autumnhui/Learn_PythonWebDM/blob/master/Prj_51job/get_job.ipynb)
+
+
 ## 心得总结及感谢
 
 ### 心得总结
